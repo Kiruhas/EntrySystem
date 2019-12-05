@@ -1,0 +1,15 @@
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\bin\Debug\ProgramForGarazhFinal.exe.config
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\bin\Debug\ProgramForGarazhFinal.exe
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\bin\Debug\ProgramForGarazhFinal.pdb
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form1.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Properties.Resources.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.csproj.GenerateResource.cache
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.csproj.CoreCompileInputs.cache
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.exe
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.pdb
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.csprojAssemblyReference.cache
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form2.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form3.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form4.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form6.resources
+C:\Users\Kiruh\source\repos\ProgramForGarazhFinal\obj\Debug\ProgramForGarazhFinal.Form7.resources
